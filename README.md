@@ -9,5 +9,5 @@ Code will be released upon acceptance.
 ## Contents
 - Training and inference code
 - Preprocessing scripts
-- Model checkpoints for baseline diffusion , characteristics specefic LoRA adapters and merged characteristics checkpoints 
+- Model checkpoints for baseline diffusion , characteristics specefic LoRA adapters and merged characteristics adapters trainings  
 - Evaluation code for downstream detection
