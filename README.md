@@ -6,7 +6,7 @@ This repository will contain the official implementation for:
 ## Status
 Code will be released upon acceptance.
 
-## Contents (to be added)
+## Contents
 - Training and inference code
 - Preprocessing scripts
 - Evaluation code for downstream detection
